@@ -6,4 +6,4 @@ slug: pucoisthebest
 categories: []
 tags: []
 ---
-푸코가 세상에서 제일 귀여움!!
+푸코가 세상에서 제일 귀여움!!!
